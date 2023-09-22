@@ -71,6 +71,9 @@ Your answer: 74.53.140.153
 Correct answer!
 Correct answers, you are good at analysis!
 Here is your flag: Jarkom2023{k0w4lski_1124_hEimORNOiAv_4nalys1s}
+IP = 74.53.140.153
+![image](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/114125438/da9e9631-5241-41ec-9b81-8082d8b5442c)
+
 ![image](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/114125438/6d274669-d538-4dfc-9c03-966d66f57505)
 
 
