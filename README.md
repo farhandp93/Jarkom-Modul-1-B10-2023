@@ -53,6 +53,8 @@ Nomor 4
 Nomor 5
 
   Elshe menemukan suatu file packet capture yang menarik. Bantulah elshe untuk menganalisis file packet capture tersebut.
+  ![WhatsApp Image 2023-09-22 at 7 59 38 PM](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/e273da34-f198-4fe3-b1ab-d76c9d965995)
+
   Langkah pertama cari smtp, lalu klik kanan pada file 13.
 ![WhatsApp Image 2023-09-22 at 6 22 59 PM](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/71ac1922-9c6e-4c7d-99cc-9cc17b6a07f8)
 ![WhatsApp Image 2023-09-22 at 6 23 54 PM](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/8fda4ed2-e846-4af2-a41c-cea7c7a7245d)
