@@ -116,6 +116,8 @@ Nomor 10
 ![Jarkom M1 N10](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/042a1aea-6245-45d8-945a-90a4336ee6e4)
 ![Jarkom M1 N10 A](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/2518909c-0eac-4d67-8a27-0a005cf5d818)
 ![Jarkom M1 N10 B](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/7bf3ec2e-dcd6-4a5f-9786-35a2dee93ba0)
+![image](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/114125438/c428f6f4-55c5-4a21-ac15-210b4d3fe603)
+
 
 
 Kendala:
@@ -124,3 +126,4 @@ Kesulitan yang kami temukan pada praktikum modul 1 banyak ditemukan untuk nomor 
 
 Keterangan Tambahan :
 Untuk semua nomor kami submit menggunakan laptop Hasan karena terdapat masalah dengan laptop Farhan saat waktu praktikum, tapi kami mengerjakan bersama.
+Revisi no 5 dan 6
