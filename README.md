@@ -113,6 +113,10 @@ Nomor 9
 Nomor 10
   
   Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
+  1. Cari Protokol Telnet
+  2. Klik kanan lalu di follow
+  3. TCP STREAM
+  4. Kami mencoba coba dan menemukan yang dhafin:kesayangannyak0k0 (Stream 2)
 ![Jarkom M1 N10](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/042a1aea-6245-45d8-945a-90a4336ee6e4)
 ![Jarkom M1 N10 A](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/2518909c-0eac-4d67-8a27-0a005cf5d818)
 ![Jarkom M1 N10 B](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/7bf3ec2e-dcd6-4a5f-9786-35a2dee93ba0)
