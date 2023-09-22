@@ -57,6 +57,21 @@ Nomor 5
 ![WhatsApp Image 2023-09-22 at 6 22 59 PM](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/71ac1922-9c6e-4c7d-99cc-9cc17b6a07f8)
 ![WhatsApp Image 2023-09-22 at 6 23 54 PM](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/8fda4ed2-e846-4af2-a41c-cea7c7a7245d)
   Follow -> TCP STREAM, copy note pad lalu cari here the password.
+![image](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/114125438/b39ffacf-e82d-4e18-aac6-db4f301890fc)
+  Passwordnya yaitu 5implePas5word. Setelah itu masukan nc... di ubuntu lalu 
+a. Berapa banyak packet yang berhasil di capture dari file pcap tersebut?
+Your answer: 60
+Correct answer!
+![image](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/114125438/9637a3d7-a586-4ace-b63c-da0a996721a2)
+
+b. Port berapakah pada server yang digunakan untuk service SMTP?
+Your answer: 25
+Correct answer!
+c. Dari semua alamat IP yang tercapture, IP berapakah yang merupakan public IP?
+Your answer: 74.53.140.153
+Correct answer!
+Correct answers, you are good at analysis!
+Here is your flag: Jarkom2023{k0w4lski_1124_hEimORNOiAv_4nalys1s}
 
 
 Nomor 6
