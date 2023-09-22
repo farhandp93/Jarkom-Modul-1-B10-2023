@@ -36,6 +36,8 @@ Nomor 3
     a.	Berapa banyak paket yang tercapture dengan IP source maupun destination address adalah 239.255.255.250 dengan port 3702?
     b.	Protokol layer transport apa yang digunakan?
   Lakukan filter ip.addr == 239.255.255.250 && udp.port == 3702, lalu hitung jumlah ip untuk bagian a dan jenis port untuk bagian b
+![WhatsApp Image 2023-09-22 at 6 56 25 PM](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/3f044d63-3b38-4285-beef-101e3e9563eb)
+
 ![Jarkom M1 N3](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/d8513517-c3fb-4e95-baa6-13c7a9e20ed5)
 
 
@@ -46,6 +48,24 @@ Nomor 4
     b.	Pilih yang user Datagram Protocol 
     c.	Pilih yang Checksum = …
 ![Jarkom M1 N4](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/5ebde308-6ce7-4a54-9168-101c5b2316b4)
+
+
+Nomor 5
+
+  Elshe menemukan suatu file packet capture yang menarik. Bantulah elshe untuk menganalisis file packet capture tersebut.
+  Langkah pertama cari smtp, lalu klik kanan pada file 13.
+![WhatsApp Image 2023-09-22 at 6 22 59 PM](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/71ac1922-9c6e-4c7d-99cc-9cc17b6a07f8)
+![WhatsApp Image 2023-09-22 at 6 23 54 PM](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/8fda4ed2-e846-4af2-a41c-cea7c7a7245d)
+  Follow -> TCP STREAM, copy note pad lalu cari here the password.
+
+
+Nomor 6
+
+  Seorang anak bernama Udin Berteman dengan SlameT yang merupakan seorang penggemar film detektif. sebagai teman yang baik, Ia selalu mengajak slamet untuk bermain valoranT bersama. suatu malam, terjadi sebuah hal yang tak terdUga. ketika udin mereka membuka game tersebut, laptop udin menunjukkan sebuah field text dan Sebuah kode Invalid bertuliskan "server SOURCE ADDRESS 7812 is invalid". ketika ditelusuri di google, hasil pencarian hanya menampilkan a1 e5 u21. jiwa detektif slamet pun bergejolak. bantulah udin dan slamet untuk menemukan solusi kode error tersebut.
+  cari frame.cumber == 7812
+![WhatsApp Image 2023-09-22 at 6 30 23 PM](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/befe4e22-c727-4a32-a1ff-ca668fb9bdfd)
+![WhatsApp Image 2023-09-22 at 6 31 09 PM](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/c52216b6-c097-4cbe-a33f-810f0435d872)
+  source addres 104.18.14.101 dipecah menjadi huruf = 10 4 18 14 10 1
 
 
 Nomor 7
@@ -79,6 +99,8 @@ Nomor 10
 ![Jarkom M1 N10 B](https://github.com/farhandp93/Jarkom-Modul-1-B10-2023/assets/128909158/7bf3ec2e-dcd6-4a5f-9786-35a2dee93ba0)
 
 
+Kendala:
+Kesulitan yang kami temukan pada praktikum modul 1 banyak ditemukan untuk nomor 5 dan 6 karena rumit untuk menemukan jawaban dan vpn yang cukup lambat.
 
 
 Keterangan Tambahan :
